@@ -1,0 +1,92 @@
+html {
+    font-family: 'GillSans', 'Calibri', Trebuchet, sans-serif;
+}
+.cover-image img{
+  height: 40.2em;
+}
+.our-team-img img{
+  height: 200px;
+  box-shadow: 0 16px 38px -12px rgba(0,0,0,0.56), 0 4px 25px 0px rgba(0,0,0,0.12), 0 8px 10px -5px rgba(0,0,0,0.2);
+}
+body{
+  background-color: #f4f4f4;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.56rem;
+  font-weight: 300;
+}
+h5{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.56rem;
+  font-weight: 300;
+}
+h6{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+}
+.fullwidth{
+  padding: 0px 0px 0px 0px!important;
+  margin: 0px 0px 0px 0px;
+  max-width: 100%!important;
+}
+.indicator{
+  background-color:#ff5722 !important;
+}
+.input-field .active{
+  color:#ff5722 !important;
+}
+.input-field input:focus{
+  border-bottom:#ff5722 !important;
+  box-shadow:0 1px 0 0 #ff5722 !important;
+}
+.card-content{
+  min-height: 180px;
+  max-height: 180px;
+}
+.modal{
+  padding: 50px;
+  top: 25%!important;
+  width:30em;
+}
+[type="checkbox"]:checked+label:before{
+  border-right: 2px solid #ff5722 ;
+  border-bottom: 2px solid #ff5722 ;
+}
+.navbar{
+  position: fixed;
+  min-width:100%;
+  z-index: 1;
+}
+.Content{
+  top: 65px;
+  position:relative;;
+}
+.waves-effect {
+  z-index:0;
+}
+.footer a{
+  color: #ff5722;
+  background-color: white;
+  padding: 0 1rem;
+}
+@media only screen and (max-width: 993px){
+  .modal{
+    padding: 20px;
+  }
+  .cover-image img{
+    height: 20.2em;
+  }
+  .navbar{
+    position: fixed;
+    min-width:100%;
+    z-index: 1;
+  }
+  .our-team-img img{
+    height: 150px;
+  }
+  #sidenav-overlay{
+    z-index: 0;
+  }
+};

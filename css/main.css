@@ -1,0 +1,217 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Feb 10, 2017, 11:38:33 PM
+    Author     : Garvit Patel
+*/
+@import url("../fonts/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+body{
+    font-family:  "Source Sans Pro", sans-serif;
+}
+#sidenav-overlay {
+    background-color: rgba(0, 0, 0, 0)!important;
+}
+@media screen and (max-width: 1280px){
+    #banner h2 {
+        font-size: 3.5em;
+    }
+};
+.container{
+    width:100%!important;
+}
+#banner{
+    background-color: #40c4ff!important;
+    background-position: top left,center center;
+    background-repeat: repeat,no-repeat;
+    background-size: auto,cover;
+    color: #fff;
+    padding: 8em 0 20em 0;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%!important;
+    max-width: 100%;
+}
+#banner h2 {
+    font-size: 5.5em;
+    line-height: 1em;
+    margin: 0 0 0.2em 0;
+    padding: 0;
+
+}
+#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
+    color: #fff;
+    text-align: -webkit-center;
+}
+h2 {
+    font-size: 2.25em;
+    line-height: 1.5em;
+    letter-spacing: -0.035em;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #646464;
+    font-weight: 300!important;
+    line-height: 1em;
+    margin: 0 0 0.5em 0;
+}
+@media only screen and (min-width: 993px){
+    .container {
+        width: 100%;
+    }
+};
+ul.actions {
+    cursor: default;
+    list-style: none;
+    padding-left: 0;
+}
+ul {
+    list-style: disc;
+    margin: 0 0 2em 0;
+    padding-left: 1em;
+}
+ol, ul {
+    list-style: none;
+}
+ul.actions li {
+    display: inline-block;
+    padding: 0 1em 0 0;
+    vertical-align: middle;
+}
+.actions .btn{
+    width: 100%;
+}
+.wrapper{
+    text-align: center;
+}
+.heading{
+    background-image: url(..//images/240_F_75102866_xoMzOLUksGNweHd5fMghxm0iTtSuNBEA.jpg);
+    background-position: top left,center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 37em;
+    top:0px;
+    padding-top: 8em;
+    margin-bottom: 0px!important;
+
+}
+.heading h1{
+    color: #ff5252;
+    font-weight: 300!important;
+    line-height: 1em;
+    font-size: 8em;
+    margin: 0 0 0.2em 0;
+}
+.heading p{
+    color: #fff;
+}
+.heading li{
+    width: 10em;
+    margin-bottom:2em;
+}
+.acard{
+    padding: 0 5.75rem;
+    text-align: left;
+
+}
+.acard h4{
+    font-weight: 400!important;
+}
+.acard h5{
+    margin: .82rem 2em .656rem 2em;
+    font-size: 1.35em!important;
+}
+.acard a:hover{
+    background-color: #2bbbad;
+}
+
+.ourcom{
+    background-image: url(..//Ourcom.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+
+}
+.ourcom h4{
+    color:#fff;
+}
+.ourcom h5{
+    color:#fff;
+}
+
+.acard-icon{
+    align-self: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    max-width: 17em;
+}
+@media screen and (max-width: 640px) {
+    .acard-icon{
+        align-self: center;
+        padding-left: 1em;
+        padding-right: 1em;
+        max-width: 13em;
+    }
+    .heading {
+        padding-top: 1em;
+        background-size:cover;
+        height: 17em;
+        padding-top: 0em;
+    }
+    .acard img{
+        align-self: center;
+        width: 150px!important;
+        height: 150px!important;
+    }
+    .model{
+        margin:0em 7em;
+        width: 80%important;
+        max-height: 80%!important;
+    }
+    .ourcom{
+        background-image: url(..//ourcom_small.jpg);
+    }
+    .ourcom .row{
+        padding: 2em 2em 2em 4em!important;
+    }
+    .ourcom h4{
+        margin: -1rem 0 0rem 0!important;
+    }
+    .ourcom h5{
+        margin: .82rem 0 -4.755rem 0;
+    }
+}
+@media only screen and (min-width: 992px){
+    .modal{
+        top:15%!important;
+        width: 50%!important;
+        max-height: 80%!important;
+    }
+    .modal .row{
+        margin-bottom: 0px!important;
+    }
+}
+@media only screen and (max-width: 680px){
+.modal {
+    top:15%!important;
+    width: 90%!important;
+}
+    .modal .row{
+        margin-bottom: 0px!important;
+    }
+}
+@media only screen and (min-width: 680px){
+.modal {
+    top:15%!important;
+    width: 40%!important;
+}
+    .modal .row{
+        margin-bottom: 0px!important;
+    }
+}
