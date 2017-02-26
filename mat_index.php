@@ -91,7 +91,7 @@ and open the template in the editor.
             </div>
             <div>
               <div class="cover-image">
-                <img src="images/download1.jpg" width="100%">
+                <img src="images/Slider1.jpg" width="100%">
               </div>
             </div>
           </div>
@@ -261,7 +261,7 @@ and open the template in the editor.
         <!--First Row Ends-->
 
         <!--Second Row  -->
-        <div class="row container Content" style="width:95%">
+        <div class="row container Content" style="width:100%">
           <!--Bday card -->
           <h2 class="deep-orange-text center">Our Services</h2>
           <div class="col s12 l3">
@@ -322,20 +322,61 @@ and open the template in the editor.
         </div>
         <!--Second Row Ends -->
 
+        <div class="row Content Slider-sec" style="width:100%;">
+          <div class="next" id="prev">
+            <i class="material-icons white-text">skip_previous</i>
+          </div>
+          <div class="prev" id="next">
+            <i class="material-icons white-text">skip_next</i>
+          </div>
+          <div class="slider" style="z-index: -1;">
+            <ul class="slides" style="height:500px!important">
+              <li>
+                <img class="responsive-img" src="images/Slider11.jpg"> <!-- random image -->
+                <div class="caption center-align">
+                  <h3 class="deep-orange-text">This is our big Tagline!</h3>
+                  <h5 class="light deep-orange-text text-lighten-1">Here's our small slogan.</h5>
+                </div>
+              </li>
+              <li>
+                <img class="responsive-img" src="images/Slider2.jpg"> <!-- random image -->
+                <div class="caption left-align">
+                  <h3 class="deep-orange-text">Left Aligned Caption</h3>
+                  <h5 class="light deep-orange-text text-lighten-1">Here's our small slogan.</h5>
+                </div>
+              </li>
+              <li>
+                <img class="responsive-img" src="images/Slider3.jpg"> <!-- random image -->
+                <div class="caption right-align">
+                  <h3 class="deep-orange-text">Right Aligned Caption</h3>
+                  <h5 class="light deep-orange-text text-lighten-1">Here's our small slogan.</h5>
+                </div>
+              </li>
+              <li>
+                <img class="responsive-img" src="images/Slider4.jpg"> <!-- random image -->
+                <div class="caption center-align">
+                  <h3 class="deep-orange-text">This is our big Tagline!</h3>
+                  <h5 class="light deep-orange-text text-lighten-1">Here's our small slogan.</h5>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+
         <!--Third Row -->
-        <div class="row Content container" style="width:95%" >
+        <div class="row Content container" style="width:100%" >
           <h2 class="deep-orange-text center">Meet the Team</h2>
-          <div class="col s6 l12 center">
+          <div class="col s6 l3 center">
             <div class="row our-team-img circle">
               <img class="circle" src="images/Garvit.jpg">
             </div>
             <div class="row">
               <h5 class="deep-orange-text">Smit Kadvani</h5>
-              <h6>FOUNDER</h6>
+              <h6>CO-FOUNDER & <br>ENGINEER</h6>
               <div class="footer">
-                <a href="https://twitter.com/garvitpatel" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://twitter.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
+                <a href="https://www.facebook.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://in.linkedin.com/in/garvitpatel196" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -347,9 +388,9 @@ and open the template in the editor.
               <h5 class="deep-orange-text">Garvit Patel</h5>
               <h6>CO-FOUNDER, DESIGNER & PROJECT MANAGER</h6>
               <div class="footer">
-                <a href="https://twitter.com/garvitpatel" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://twitter.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
+                <a href="https://www.facebook.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://in.linkedin.com/in/garvitpatel196" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -361,9 +402,9 @@ and open the template in the editor.
               <h5 class="deep-orange-text">Dhruvan Tanna</h5>
               <h6>CO-FOUNDER, SENIOR ENGINEER</h6></br>
               <div class="footer">
-                <a href="https://twitter.com/garvitpatel" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://twitter.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
+                <a href="https://www.facebook.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://in.linkedin.com/in/garvitpatel196" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -373,25 +414,11 @@ and open the template in the editor.
             </div>
             <div class="row">
               <h5 class="deep-orange-text">Harsh Lalani</h5>
-              <h6>MARKETING DIRECTOR</h6></br>
+              <h6>MARKETING DIRECTOR & CO-FOUNDER</h6></br>
               <div class="footer">
-                <a href="https://twitter.com/garvitpatel" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="col s6 l3 center">
-            <div class="row our-team-img">
-              <img class="circle" src="images/Garvit.jpg">
-            </div>
-            <div class="row">
-              <h5 class="deep-orange-text">Harsh Karangiya</h5>
-              <h6>MARKETING MANAGER</h6></br>
-              <div class="footer">
-                <a href="https://twitter.com/garvitpatel" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://twitter.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
+                <a href="https://www.facebook.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://in.linkedin.com/in/garvitpatel196" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -401,11 +428,11 @@ and open the template in the editor.
             </div>
             <div class="row">
               <h5 class="deep-orange-text">Jaypal singh</h5>
-              <h6>MARKET RESEARCH ANALYST</h6></br>
+              <h6>MARKET RESEARCH ANALYST & CO-FOUNDER</h6></br>
               <div class="footer">
-                <a href="https://twitter.com/garvitpatel" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://twitter.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
+                <a href="https://www.facebook.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://in.linkedin.com/in/garvitpatel196" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -415,25 +442,11 @@ and open the template in the editor.
             </div>
             <div class="row">
               <h5 class="deep-orange-text">Priyansh Shah</h5>
-              <h6>SALES MANAGER</h6></br>
+              <h6>SALES MANAGER & CO-FOUNDER</h6></br>
               <div class="footer">
-                <a href="https://twitter.com/garvitpatel" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="col s6 l3 center">
-            <div class="row our-team-img">
-              <img class="circle" src="images/Garvit.jpg">
-            </div>
-            <div class="row">
-              <h5 class="deep-orange-text">Chaitaniyaraj Jadeja</h5>
-              <h6>DIRECTOR OF SALES</h6></br>
-              <div class="footer">
-                <a href="https://twitter.com/garvitpatel" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://twitter.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
+                <a href="https://www.facebook.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://in.linkedin.com/in/garvitpatel196" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -445,9 +458,9 @@ and open the template in the editor.
               <h5 class="deep-orange-text">Maitrik Patel</h5>
               <h6>MENTOR/ADVISOR</h6></br>
               <div class="footer">
-                <a href="https://twitter.com/garvitpatel" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://twitter.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
+                <a href="https://www.facebook.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://in.linkedin.com/in/garvitpatel196" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -486,7 +499,14 @@ and open the template in the editor.
         </footer>
         <!--Footer Ends-->
       <script>
+      $('#next').click(function(){
+        $('.slider').slider('next');
+      });
+      $('#prev').click(function(){
+        $('.slider').slider('prev');
+      });
       $(document).ready(function(){
+        $('.slider').slider();
         $('.parallax').parallax();
       });
           $(window).resize(function(){
