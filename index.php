@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -411,7 +411,7 @@ and open the template in the editor.
           </div>
           <div class="col s6 l3 center">
             <div class="our-team-img row">
-              <img class="circle" src="images/Garvit.jpg">
+              <img class="circle" src="images/DhruvanTanna.JPG">
             </div>
             <div class="row">
               <h5 class="deep-orange-text">Dhruvan Tanna</h5>
@@ -425,21 +425,21 @@ and open the template in the editor.
           </div>
           <div class="col s6 l3 center">
             <div class="row our-team-img">
-              <img class="circle" src="images/Garvit.jpg">
+              <img class="circle" src="images/Harsh Karangia.jpg">
             </div>
             <div class="row">
-              <h5 class="deep-orange-text">Harsh Lalani</h5>
+              <h5 class="deep-orange-text">Harsh Karangia</h5>
               <h6>MARKETING DIRECTOR & CO-FOUNDER</h6></br>
               <div class="footer">
                 <a href="https://twitter.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel196" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://www.facebook.com/harsh.karangia" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://in.linkedin.com/in/harsh-karangia-0092a7118" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
           </div>
           <div class="col s6 l3 center">
             <div class="row our-team-img">
-              <img class="circle" src="images/Garvit.jpg">
+              <img class="circle" src="images/Jaypal Singh.jpg">
             </div>
             <div class="row">
               <h5 class="deep-orange-text">Jaypal singh</h5>
@@ -453,15 +453,15 @@ and open the template in the editor.
           </div>
           <div class="col s6 l3 center">
             <div class="row our-team-img">
-              <img class="circle" src="images/Garvit.jpg">
+              <img class="circle" src="images/Priyansh Shah.jpg">
             </div>
             <div class="row">
               <h5 class="deep-orange-text">Priyansh Shah</h5>
               <h6>SALES MANAGER & CO-FOUNDER</h6></br>
               <div class="footer">
-                <a href="https://twitter.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
-                <a href="https://www.facebook.com/garvitpatel196" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
-                <a href="https://in.linkedin.com/in/garvitpatel196" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a href="https://twitter.com/Priyansh_Shah56" class="btn btn-just-icon btn-simple btn-twitter"><i class="fa fa-twitter"></i><div class="ripple-container"></div></a>
+                <a href="https://www.facebook.com/priyansh.shah.507?ref=bookmarks" class="btn btn-just-icon btn-simple btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://in.linkedin.com/in/priyansh-shah-889b7a139" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -506,7 +506,7 @@ and open the template in the editor.
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2017 Copyright Alivio Inc
+            Â© 2017 Copyright Alivio Inc
             <a class="grey-text text-lighten-4 right" href="#!"></a>
             </div>
           </div>
