@@ -29,18 +29,18 @@ and open the template in the editor.
           <nav>
               <div class="nav-wrapper black">
                   <!--Brand Logo -->
-                  <a href="index.html" class="brand-logo" style="margin-left: 3%;">Alivio</a>
+                  <a href="index.php" class="brand-logo" style="margin-left: 3%;">Alivio</a>
                   <!--Navigation button for mobile view -->
                   <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
                   <!--Navigattion Items for Website view-->
                   <ul id="nav-mobile" class="right hide-on-med-and-down">
                       <li><a href="Download.php">DOWNLOAD APP</a></li>
-                      <li><a href="Help.html">HELP</a></li>
+                      <li><a href="Help.php">HELP</a></li>
                       <li><a class="deep-orange waves-effect waves-light btn" style="background-color: #26a69a" href="#signin">Sign In</a></li>
                   </ul>
                   <!--Navigattion Items for Mobile view-->
                   <ul id="slide-out" class="side-nav black">
-                      <div class="center"><h3>Alivio</h3></div>
+                      <div class="center"><a href="index.php"><h3 class="white-text">Alivio</h3></a></div>
                       <li><a href="Download.php" class="white black-text waves-effect waves-light btn" >DOWNLOAD APP</a></li>
                       <li><a class="waves-effect waves-light btn z-depth-5 deep-orange" href="#signin">Sign In</a></li>
                       <li><a class="waves-effect waves-light btn z-depth-5 deep-orange" href="signup.html">Sign Up</a></li>
@@ -71,10 +71,10 @@ and open the template in the editor.
               </div>
               <div class="row margin-bottom">
                 <div class="input-field col s12">
-                  <a href="index.html" class="btn deep-orange waves-effect waves-light col s12">Sign In</a>
+                  <a href="" class="btn deep-orange waves-effect waves-light col s12">Sign In</a>
                 </div>
                 <div class="input-field col s12">
-                  <p class="margin center medium-small sign-up ">Create an account? <a class="deep-orange-text" href="page-login.html">Sign up</a></p>
+                  <p class="margin center medium-small sign-up ">Create an account? <a class="deep-orange-text" href="signup.html">Sign up</a></p>
                 </div>
               </div>
             </form>
@@ -171,10 +171,10 @@ and open the template in the editor.
                     <!--Sign Up Button-->
                     <div class="row margin-bottom">
                       <div class="input-field col s12 signupbutt">
-                        <a href="index.html" class="btn deep-orange waves-effect waves-light col s12">Sign Up</a>
+                        <a href="index.php" class="btn deep-orange waves-effect waves-light col s12">Sign Up</a>
                       </div>
                       <div class="input-field col s12">
-                        <p class="margin center medium-small sign-up ">Already have an account? <a class="deep-orange-text" href="page-login.html">Sign In</a></p>
+                        <p class="margin center medium-small sign-up ">Already have an account? <a class="deep-orange-text" href="signin.html">Sign In</a></p>
                       </div>
                     </div>
 
@@ -242,10 +242,10 @@ and open the template in the editor.
                     <!--Sign Up Button-->
                     <div class="row margin-bottom">
                       <div class="input-field col s12 signupbutt">
-                        <a href="index.html" class="btn deep-orange waves-effect waves-light col s12">Sign Up</a>
+                        <a href="index.php" class="btn deep-orange waves-effect waves-light col s12">Sign Up</a>
                       </div>
                       <div class="input-field col s12">
-                        <p class="margin center medium-small sign-up ">Already have an account? <a class="deep-orange-text" href="page-login.html">Sign In</a></p>
+                        <p class="margin center medium-small sign-up ">Already have an account? <a class="deep-orange-text" href="signin.html">Sign In</a></p>
                       </div>
                     </div>
                   </form>
@@ -259,6 +259,17 @@ and open the template in the editor.
           <!--Sign Up Pannel Ends-->
         </div>
         <!--First Row Ends-->
+
+        <div class="row container Content" style="width:100%">
+          <h2 class="deep-orange-text center">What is Alivio?</h2>
+          <div class="col s12 l6 push-l3 black-text medium" style="text-align: justify;">
+            <h5>Alivio is a care giving company. We provide services to elderly people with human touch.In this busy world elderly people are
+              facing lots and lots of problems. They feel lonely and helpless at home. We are here with a solution that can help to connect
+              elderly people with person living near to them who can help them out with some service and can also earn some money out of it.
+            </h5>
+          </div>
+        </div>
+
 
         <!--Second Row  -->
         <div class="row container Content" style="width:100%">
@@ -325,6 +336,7 @@ and open the template in the editor.
 
         <!--Third Row -->
         <div class="row Content Slider-sec" style="width:100%;">
+          <h2 class="deep-orange-text center">Our Community<h2>
           <div class="next" id="prev">
             <i class="material-icons white-text">skip_previous</i>
           </div>
@@ -366,8 +378,8 @@ and open the template in the editor.
         </div>
         <!--Third Row Ends-->
 
-
-        <div class="row Content container" style="width:100%" >
+        <!--contact us-->
+        <div class="row Content container" style="width:100%;margin-top:7em;" >
           <h2 class="deep-orange-text center">Meet the Team</h2>
           <div class="col s6 l3 center">
             <div class="row our-team-img circle">
@@ -468,7 +480,7 @@ and open the template in the editor.
             </div>
           </div>
         </div>
-
+        <!--Contact US ENDs -->
         <!--Footer -->
         <footer class="page-footer Content black">
           <div class="container">
